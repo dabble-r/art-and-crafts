@@ -1,0 +1,26 @@
+header h1 {
+  font-family: helvetica;
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  color: #c3be96;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
+
+div h3 {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
